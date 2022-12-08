@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.x",
+    "express": "^4.18.x",
     "nodemon": "^2.0.2"
   },
   "author": "Teri Chadbourne",
